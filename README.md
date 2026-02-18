@@ -25,28 +25,28 @@ My journey started through creativity and digital media, which led me to discove
 
 ---
 
+
 ## 🛠️ Languages and Tools
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,html,css" height="40"/>
 </p>
 
 ### ⚙️ Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=react,angular" />
+  <img src="https://skillicons.dev/icons?i=react,angular" height="40"/>
 </p>
 
 ### 🧰 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,clickup" />
+  <img src="https://skillicons.dev/icons?i=vscode,clickup,github" height="40"/>
 </p>
 
 ### 🎨 Design Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,indesign,word,powerpoint,excel,canva,ps,ai" />
+  <img src="https://skillicons.dev/icons?i=figma,indesign,word,powerpoint,excel,canva,ps,ai" height="40"/>
 </p>
-
 ---
 
 ### 🚀 Goals
