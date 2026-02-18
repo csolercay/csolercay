@@ -37,9 +37,14 @@ My journey started through creativity and digital media, which led me to discove
   <img src="https://skillicons.dev/icons?i=react,angular" />
 </p>
 
+### 🧰 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,clickup" height="40"/>
+</p>
+
 ### 🎨 Design Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+  <img src="https://skillicons.dev/icons?i=figma,indesign,word,powerpoint,excel,canva,ps,ai" height="40"/>
 </p>
 
 ---
