@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Claudia Soler</h1>
 
-<!--
-**csolercay/csolercay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Multimedia student 🎓 | UX/UI Designer 🎨 | Future Frontend Developer 🚀
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+I'm a multimedia graduate passionate about design and technology.  
+I specialize in **UX/UI design** and I'm currently focused on becoming a **Frontend Developer**.
+
+My journey started through creativity and digital media, which led me to discover the world of web development. Since then, I've been combining **design and code** to build engaging and user-friendly experiences. 💻✨
+
+---
+
+### 🧠 Coding
+
+🔭 I’m currently working on improving my frontend skills  
+🌱 I’m currently learning **Angular** and **React**  
+👨‍💻 All of my projects are available on my GitHub  
+🌐 Check out my portfolio  
+💼 Connect with me on LinkedIn  
+
+---
+
+## 🛠️ Languages and Tools
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css" />
+</p>
+
+### ⚙️ Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=react,angular" />
+</p>
+
+### 🎨 Design Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+</p>
+
+---
+
+### 🚀 Goals
+
+- Become a professional Frontend Developer  
+- Master modern frameworks  
+- Build beautiful and usable interfaces  
+- Merge design + development  
