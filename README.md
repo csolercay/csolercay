@@ -29,36 +29,25 @@ My journey started through creativity and digital media, which led me to discove
 ## 🛠️ Languages and Tools
 
 ### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js" height="40" style="margin-right:10px"/>
-  <img src="https://skillicons.dev/icons?i=html" height="40" style="margin-right:10px"/>
-  <img src="https://skillicons.dev/icons?i=css" height="40"/>
-</p>
+| JavaScript | HTML5 | CSS3 |
+|------------|------|-----|
+| <img src="https://skillicons.dev/icons?i=js" height="40"/> | <img src="https://skillicons.dev/icons?i=html" height="40"/> | <img src="https://skillicons.dev/icons?i=css" height="40"/> |
 
 ### ⚙️ Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=react" height="40" style="margin-right:10px"/>
-  <img src="https://skillicons.dev/icons?i=angular" height="40"/>
-</p>
+| React | Angular |
+|-------|--------|
+| <img src="https://skillicons.dev/icons?i=react" height="40"/> | <img src="https://skillicons.dev/icons?i=angular" height="40"/> |
 
 ### 🧰 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" style="margin-right:10px"/>
-  <img src="https://skillicons.dev/icons?i=clickup" height="40" style="margin-right:10px"/>
-  <img src="https://skillicons.dev/icons?i=github" height="40"/>
-</p>
+| VS Code | ClickUp | GitHub |
+|--------|--------|--------|
+| <img src="https://skillicons.dev/icons?i=vscode" height="40"/> | <img src="https://skillicons.dev/icons?i=clickup" height="40"/> | <img src="https://skillicons.dev/icons?i=github" height="40"/> |
 
 ### 🎨 Design Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" height="40" style="margin-right:10px"/>
-  <img src="https://skillicons.dev/icons?i=indesign" height="40" style="margin-right:10px"/>
-  <img src="https://skillicons.dev/icons?i=word" height="40" style="margin-right:10px"/>
-  <img src="https://skillicons.dev/icons?i=powerpoint" height="40" style="margin-right:10px"/>
-  <img src="https://skillicons.dev/icons?i=excel" height="40" style="margin-right:10px"/>
-  <img src="https://skillicons.dev/icons?i=canva" height="40" style="margin-right:10px"/>
-  <img src="https://skillicons.dev/icons?i=ps" height="40" style="margin-right:10px"/>
-  <img src="https://skillicons.dev/icons?i=ai" height="40"/>
-</p>
+| Figma | InDesign | Word | PowerPoint | Excel | Canva | Photoshop | Illustrator |
+|-------|---------|------|-----------|------|-------|-----------|------------|
+| <img src="https://skillicons.dev/icons?i=figma" height="40"/> | <img src="https://skillicons.dev/icons?i=indesign" height="40"/> | <img src="https://skillicons.dev/icons?i=word" height="40"/> | <img src="https://skillicons.dev/icons?i=powerpoint" height="40"/> | <img src="https://skillicons.dev/icons?i=excel" height="40"/> | <img src="https://skillicons.dev/icons?i=canva" height="40"/> | <img src="https://skillicons.dev/icons?i=ps" height="40"/> | <img src="https://skillicons.dev/icons?i=ai" height="40"/> |
+
 ---
 
 ### 🚀 Goals
