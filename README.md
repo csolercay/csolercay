@@ -30,22 +30,34 @@ My journey started through creativity and digital media, which led me to discove
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js" height="40" style="margin-right:10px"/>
+  <img src="https://skillicons.dev/icons?i=html" height="40" style="margin-right:10px"/>
+  <img src="https://skillicons.dev/icons?i=css" height="40"/>
 </p>
 
 ### ⚙️ Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=react,angular" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react" height="40" style="margin-right:10px"/>
+  <img src="https://skillicons.dev/icons?i=angular" height="40"/>
 </p>
 
 ### 🧰 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,clickup,github" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" style="margin-right:10px"/>
+  <img src="https://skillicons.dev/icons?i=clickup" height="40" style="margin-right:10px"/>
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </p>
 
 ### 🎨 Design Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,indesign,word,powerpoint,excel,canva,ps,ai" height="40"/>
+  <img src="https://skillicons.dev/icons?i=figma" height="40" style="margin-right:10px"/>
+  <img src="https://skillicons.dev/icons?i=indesign" height="40" style="margin-right:10px"/>
+  <img src="https://skillicons.dev/icons?i=word" height="40" style="margin-right:10px"/>
+  <img src="https://skillicons.dev/icons?i=powerpoint" height="40" style="margin-right:10px"/>
+  <img src="https://skillicons.dev/icons?i=excel" height="40" style="margin-right:10px"/>
+  <img src="https://skillicons.dev/icons?i=canva" height="40" style="margin-right:10px"/>
+  <img src="https://skillicons.dev/icons?i=ps" height="40" style="margin-right:10px"/>
+  <img src="https://skillicons.dev/icons?i=ai" height="40"/>
 </p>
 ---
 
